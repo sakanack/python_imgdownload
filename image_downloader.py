@@ -195,4 +195,5 @@ class Img_DLClass(threading.Thread):
             imgdl = Img_DLClass(url,"/Users/hara/Pictures/imgs")
             imgdl.ImgDL()
             #test
+            #test2
             
