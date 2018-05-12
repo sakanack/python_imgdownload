@@ -194,6 +194,3 @@ class Img_DLClass(threading.Thread):
         for url in sys.argv[1:]:
             imgdl = Img_DLClass(url,"/Users/hara/Pictures/imgs")
             imgdl.ImgDL()
-            #test
-            #test2
-            
